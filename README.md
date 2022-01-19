@@ -16,3 +16,10 @@ Trovão, Nídia Sequeira <sup>a</sup>; Thijssen, Marijn <sup>a</sup>; Vrancken, 
 <sup>f</sup> Health Policy Research Center, Institute of Health, Shiraz University of Medical Sciences, Shiraz, Iran
 
 <sup>g</sup> Blood Transfusion Research Centre, High Institute for Research and Education in Transfusion Medicine, Hemmat Exp. Way, 14665-1157, Tehran, Iran
+
+<br>
+
+**Files Provided**
+- Dataset A xml
+- Dataset B xml
+- Dataset C xml
