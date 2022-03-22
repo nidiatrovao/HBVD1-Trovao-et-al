@@ -20,6 +20,6 @@ Trovão, Nídia Sequeira <sup>a</sup>; Thijssen, Marijn <sup>a</sup>; Vrancken, 
 <br>
 
 **Files Provided**
-- Dataset A xml
-- Dataset B xml
-- Dataset C xml
+- [Dataset A xmls](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetA)
+- [Dataset B xml](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetB)
+- [Dataset C xmls](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetC)
