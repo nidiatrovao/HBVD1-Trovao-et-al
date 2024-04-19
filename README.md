@@ -19,6 +19,9 @@ Trovão, Nídia Sequeira <sup>a</sup>; Thijssen, Marijn <sup>a</sup>; Vrancken, 
 
 <br>
 
+Manuscript available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9194798/).
+<br>
+
 **Files Provided**
 - [Dataset A xmls](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetA)
 - [Dataset B xml](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetB)
