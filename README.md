@@ -27,3 +27,9 @@ Manuscript available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9194798
 - [Dataset A xmls](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetA)
 - [Dataset B xml](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetB)
 - [Dataset C xmls](https://github.com/nidiatrovao/HBVD1-Trovao-et-al/tree/main/DatasetC)
+
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
